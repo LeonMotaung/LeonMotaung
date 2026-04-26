@@ -1,162 +1,140 @@
-# 👋 Hey, I'm Leon Motaung
+<!-- 🔥 Animated Typing Intro -->
 
-💡 **AI/ML Engineer | Full-Stack Developer | Cloud Specialist**
-🚀 5+ Years Building Scalable Systems & Intelligent Applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Leon+Motaung;AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AWS+Certified+Cloud+Specialist+%E2%98%81%EF%B8%8F;Building+Scalable+AI+Systems+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🧠 About Me
+# 👋 Leon Motaung
 
-I’m an AI/ML engineer with strong full-stack development experience, focused on building **intelligent, scalable, and high-performance applications**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeonMotaung&style=for-the-badge&color=blue" />
+</p>
 
-* 🔭 Currently working on **AI systems & cloud-based solutions**
-* 🤖 Passionate about **Machine Learning, AI Safety & Automation**
-* ☁️ AWS Certified across multiple domains
-* ⚡ Love solving real-world problems with tech
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:motaungleon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-motaungleon@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leon.dev">
+    <img src="https://img.shields.io/badge/Portfolio-leon.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Phone-084%20866%202418-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 AI Engineer Profile
+
+```diff
++ AI/ML Engineer with 5+ years experience
++ AWS Certified Cloud Specialist
++ Full-Stack Developer (React, Node.js, Flask)
++ Focus: AI Systems, Automation, and Scalable Infrastructure
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Web & Backend
+<p align="center">
 
-HTML • CSS • Tailwind • Bootstrap • JavaScript • React • Redux
-Node.js • Express • Flask • PHP
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flask,php,mongodb,mysql,python,aws,linux" />
 
-### 🗄️ Databases
-
-MongoDB • MySQL
-
-### ☁️ Cloud & DevOps
-
-AWS (Cloud Practitioner, Developer, Solutions Architect, SysOps)
-DNS • Prompt Engineering
-
-### 🧪 AI / Data Science
-
-Python • NumPy • Pandas
-Machine Learning • Deep Learning • RAG
-
-### 🧮 Mathematics
-
-Linear Algebra • Calculus • Probability • Statistics
-Optimization • Discrete Mathematics
-
-### 🖥️ Systems
-
-Linux • Windows
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeonMotaung\&color=blue\&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonMotaung&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonMotaung&theme=tokyonight" />
+</p>
 
-![Leon GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonMotaung\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonMotaung\&layout=compact\&theme=tokyonight)
-
----
-
-## 🚀 Projects
-
-### 🔐 Jailbreak Genome Scanner (2025)
-
-Automated AI red-teaming & defense system
-
-* Detects vulnerabilities in AI models
-* Scales 100x faster than manual testing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonMotaung&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 📰 Viral Surge News (2025)
+## 🐍 Contribution Snake
 
-Modern, fast, engaging news platform
-
----
-
-### 🧠 Mental Health Xcellerators (2024)
-
-Student-focused hackathon platform for innovation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeonMotaung/LeonMotaung/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🧪 Research
+## 🚀 Featured Projects
 
-* 🔍 **Jailbreak Genome Scanner**
-  AI vulnerability detection & defense intelligence
+### 🔐 Jailbreak Genome Scanner
 
-* ⚙️ **Avoiding Gimbal Lock**
-  Explored mathematical solutions (inefficient but insightful)
+AI security system for detecting vulnerabilities in models
 
-* 🔐 **JS Security Module**
-  Advanced encryption & authentication system
+### 📰 Viral Surge News
 
----
+Modern high-performance news platform
 
-## 💼 Experience
+### 🧠 Mental Health Xcellerators
 
-### 🏢 DeWet Technologies (2024 – Present)
-
-**Senior Software Engineer**
-
-* Built scalable apps using React, Node.js, MongoDB
-* Improved performance for large-scale users
-* Integrated ML models with Python & Flask
-* Worked with AWS cloud infrastructure
-
----
-
-### 🏢 Mafube (2019 – 2020)
-
-Software Engineering Role
-
----
-
-## 🎓 Education & Certifications
-
-* 📜 AWS Certifications (Solutions Architect, Developer, SysOps)
-* 🤖 Generative AI Fundamentals (2025)
-* 🐍 IBM Python Data Science (2024)
-* 💻 Full Stack Dev – FNB App Academy (2025)
-* 🌐 Udemy Web Dev (15 Projects)
-
----
-
-## 🧩 Services
-
-* 🌐 Web & App Development
-* 🗄️ Database Design & Management
-* 🔗 API Development (RESTful)
-* ⚡ Performance Optimization
-* 🛒 E-commerce Solutions
-* 🤖 AI Integration
-
----
-
-## 📈 Highlights
-
-* 🧠 5+ Years Experience
-* 🚀 7+ Projects Completed
-* 🤝 Multiple Clients & Collaborations
-* 🏆 Hackathons & Research Contributions
+Innovation-focused hackathon platform
 
 ---
 
 ## 🌍 Live Projects
 
-* 🏢 Business Websites
-* 🛒 E-commerce Platforms
-* 🎓 Tutoring Systems
-* 💻 Portfolio Systems
+| Project                | Description                |
+| ---------------------- | -------------------------- |
+| 🏢 Business Website    | Company web presence       |
+| 🛒 E-commerce Platform | Payment integration (Yoco) |
+| 🎓 Tutoring Platform   | Learning system            |
+| 💻 Portfolio           | Personal brand website     |
 
 ---
 
-## 📫 Contact Me
+## 💼 Experience
 
-📞 +27 84 866 2418
-📧 [motaungleon@gmail.com](mailto:motaungleon@gmail.com)
+**Senior Software Engineer – DeWet Technologies (2024–Present)**
 
-💬 *Excited to collaborate on new projects — let’s build something powerful.*
+* Built scalable full-stack apps
+* Integrated ML models (Python + Flask)
+* Deployed systems using AWS
 
 ---
+
+## 🎓 Certifications
+
+* AWS Solutions Architect
+* AWS Developer
+* AWS SysOps Administrator
+* Generative AI Fundamentals
+* IBM Python Data Science
+
+---
+
+## 🧪 Research
+
+* 🔍 Jailbreak Genome Scanner (AI Security)
+* ⚙️ Avoiding Gimbal Lock
+* 🔐 JavaScript Security Module
+
+---
+
+## 🤝 Let's Build
+
+<p align="center">
+  💬 Open to collaborations, freelance, and AI innovation projects  
+</p>
+
+---
+
+<!-- 🐍 Snake Animation Setup Note -->
+
+<!-- After pushing this README, you MUST enable GitHub Actions and add snake workflow -->

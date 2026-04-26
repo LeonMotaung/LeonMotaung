@@ -1,7 +1,7 @@
 <!-- 🔥 Logo + Animated Typing Intro -->
 
 <p align="center">
-  <img src="logo.png" alt="Leon Motaung Logo" width="768" height="1366" />
+  <img src="logo.png" alt="Leon Motaung Logo" width="768" height="2000" />
 </p>
 
 <p align="center">

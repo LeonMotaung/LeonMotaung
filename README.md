@@ -1,4 +1,8 @@
-<!-- 🔥 Animated Typing Intro -->
+<!-- 🔥 Logo + Animated Typing Intro -->
+
+<p align="center">
+  <img src="logo.png" alt="Leon Motaung Logo" width="80" height="80" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Leon+Motaung;AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AWS+Certified+Cloud+Specialist+%E2%98%81%EF%B8%8F;Building+Scalable+AI+Systems+%F0%9F%9A%80" />
@@ -187,11 +191,3 @@
     <img src="https://img.shields.io/badge/Email-motaungleon@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<!-- 
-⚠️ For the Contribution Snake Animation to work:
-1. Go to your repo: Settings → Actions → General → Workflow permissions → "Read and write permissions"
-2. Create .github/workflows/snake.yml file (contact me for the workflow code)
--->
